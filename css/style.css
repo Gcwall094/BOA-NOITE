@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+   background: url(https://images6.alphacoders.com/964/964473.jpg);
+    background-size:100%;
+    margin: 200px;
+    
+}
+
+button{
+
+    padding: 40px 90px;
+    margin: 30px 30px;
+    font-size: 20px;
+    background: #ffffff7f;
+    color:  #020202;
+    border-radius: 20px;
+    border: 3px;
+    cursor: crosshair;
+    transition: 0.5s;
+}
+button:hover{
+    background:  #00000046;
+    padding: 30px auto;
+    border-radius:30%;
+    color:  #ffffff;
+    border-color: #000000;
+}
+
+h1{
+    
+    
+    font-size: 60px;
+    
+    background-size: cover;
+}
+
+
+
+h2{
+   
+    color: #ffffffa3;
+}
+h1{
+    color:#ffffff;
+    font-size:45px ;
+    background-clip: initial;
+    background-size: contain;
+
+} 
+h1:hover{
+    transition: .5s;
+    transform:scale(1.2) ;
+    flex-direction: row-reverse;
+    background-color: rgba(3, 3, 3, 0.348);
+    border-radius: 30px;
+}
+h2:hover{
+    transition: .5s;
+    transform:scale(1.2) ;
+    color: rgba(255, 255, 255, 0.464);
+    background-color: #00000059;
+
+}
+section{
+    width: 90%;
+    max-width: 1600px;
+    height: 625px;
+    
+    margin: 120px auto;
+    
+    
+}
